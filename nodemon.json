@@ -1,0 +1,5 @@
+{"env":{
+    "ATLAS_URL":"mongodb+srv://abhishek:<password>@uttrakhandtourism-vujwc.mongodb.net/test?retryWrites=true&w=majority",
+    "JWT_KEY":"secret"
+}
+}
